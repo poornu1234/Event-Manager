@@ -71,8 +71,6 @@ GET /api/users/profile - Get user profile
 PUT /api/users/profile - Update user profile
 GET /api/users/events - Get user's events
 
-## 🗂 Project Structure
-Event_Manager/ ├── src/ │ ├── config/ │ ├── controllers/ │ ├── middleware/ │ ├── models/ │ ├── routes/ │ ├── services/ │ └── utils/ ├── tests/ ├── .env ├── .gitignore ├── package.json └── README.md
 
 ## 🧪 Testing
 
